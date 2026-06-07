@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import App from './StudentScoreTracking.vue'
+import App from './FinanceTracker.vue'
 // import './assets/css/main.css'
-import './StudentScoreTracking.vue'
+import './FinanceTracker.vue'
 
 createApp(App).mount('#app')
